@@ -32,6 +32,8 @@ p{
     color: white;
     font-size: 18px;
     text-align: justify;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
 }
 a.cv-link{
     text-decoration: none;
@@ -71,4 +73,42 @@ a.Contact-link{
     padding: 10px 25px;
     font-size: 22px;
     border-radius: 8px;
+}
+.service-title{
+    text-align: center;
+
+}
+.services-section{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+.service-container{
+    display: flex;
+
+}
+.one-third{
+    width: 50%;
+    margin: 5%;
+    border: #1DDDBD solid 2px;
+    box-shadow: 5px 5px 10px #1DDDBD;
+    font-size: 16px;
+}
+#service-heading{
+    color: #1DDDBD;
+}
+h4 span{
+    font-size: 25px;
+    color: white;
+}
+.main-heading{
+    color: #1DDDBD;
+    font-size: 60px;
+    text-align: center;
+}
+
+#footer-content{
+    text-align: center;
+    color: #1DDDBD;
+    font-weight: 700;
 }
