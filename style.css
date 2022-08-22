@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'DynaPuff', cursive;
+}
+.home-section{
+    display: flex;
+    background-color: black;
+}
+.colorized{
+    color: #1DDDBD;
+}
+h3{
+    font-size: 40px;
+    font-weight: 300px;
+}
+.Intro-title{
+    font-family: 'Silkscreen', cursive;
+    font-size: 65px;
+    font-weight: 400px;
+    color: white;
+}
+.half-width{
+    width: 50%;
+    margin: 5%;
+}
+.half-width img{
+    margin-left: 20%;
+    height: 800px;
+}
+p{
+    color: white;
+    font-size: 18px;
+    text-align: justify;
+}
+a.cv-link{
+    text-decoration: none;
+    background-color: black;
+    border: 2px solid #1DDDBD;
+    color: #1DDDBD;
+    padding: 10px 25px;
+    font-size: 22px;
+}
